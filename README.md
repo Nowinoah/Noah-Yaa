@@ -14,16 +14,22 @@ I work with data across **healthcare, business, and operational contexts**, with
 * **Data Management:** Data Cleaning, Data Quality, Reporting
 * **Other:** Statistical Analysis, Data Storytelling, Dashboard Development
 
-### 📊 Featured Projects
+## 📊 Featured Projects
 
-**🍽️ Tasty Bites — Restaurant Sales Analysis**
-Analyzed customer and sales data to identify sales patterns, popular products, busy periods, and insights that could support business decisions.
+### 🍽️ Tasty Bites — Restaurant Sales Analysis
+Analyzed restaurant sales and customer data to identify sales trends, customer patterns, popular dishes, and factors affecting business performance.
 
-**📈 Sales & Financial Performance Dashboard**
-Built interactive Power BI dashboards to analyze sales, profit, units sold, products, segments, and trends.
+**Tools:** Excel • SQL • Power BI
 
-**🗄️ SQL Data Analysis Projects**
-Used SQL for data extraction, filtering, joins, aggregation, and analysis of structured datasets.
+### 🏥 Healthcare Data Analysis
+Worked with healthcare-related data to explore trends, perform data quality checks, and generate meaningful insights for decision-making.
+
+**Tools:** Excel • SPSS • DHIS2
+
+### 📈 Sales Performance Dashboard
+Built an interactive Power BI dashboard to monitor sales, profit, units sold, product performance, and trends.
+
+**Tools:** Power BI • Excel
 
 ### 🎯 Currently Building
 
