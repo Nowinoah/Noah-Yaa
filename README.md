@@ -31,6 +31,14 @@ Built an interactive Power BI dashboard to monitor sales, profit, units sold, pr
 
 **Tools:** Power BI • Excel
 
+## 🛠️ Tools & Technologies
+
+- **Data Analysis:** Excel, SQL, SPSS
+- **Data Visualization:** Power BI
+- **Programming:** Python
+- **Healthcare Data:** DHIS2
+- **Version Control:** Git & GitHub
+
 ### 🎯 Currently Building
 
 * Data Analytics Portfolio
