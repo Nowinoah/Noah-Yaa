@@ -1,75 +1,43 @@
-# Hi, I'm Noah Yaa 
+# Hi, I'm Noah 👋
 
 ### Data Analyst | Health Data & Business Intelligence
 
-I’m a Data Analyst with a background in **Epidemiology and Medical Statistics**, passionate about transforming raw data into clear, actionable insights.
+I’m a data analyst with a background in **Epidemiology and Medical Statistics**, focused on turning data into clear insights that support better decisions.
 
-I work across **data cleaning, statistical analysis, SQL, data visualization, and reporting**, with a particular interest in healthcare and business analytics.
+I work with data across **healthcare, business, and operational contexts**, with practical experience in data cleaning, analysis, visualization, reporting, and dashboard development.
 
----
+### 🛠️ Skills & Tools
 
-##  Technical Skills
+* **Data Analysis:** Excel, SQL, SPSS, Python
+* **Data Visualization:** Power BI
+* **Healthcare Data:** DHIS2, Epidemiological & Health Facility Data
+* **Data Management:** Data Cleaning, Data Quality, Reporting
+* **Other:** Statistical Analysis, Data Storytelling, Dashboard Development
 
-**Data Analysis & Statistics**  
-Excel · SQL · SPSS · Python · Statistical Analysis
+### 📊 Featured Projects
 
-**Data Visualization & BI**  
-Power BI · Excel Dashboards · Data Storytelling
+**🍽️ Tasty Bites — Restaurant Sales Analysis**
+Analyzed customer and sales data to identify sales patterns, popular products, busy periods, and insights that could support business decisions.
 
-**Databases & Data Management**  
-MySQL · Data Cleaning · Data Quality Assessment
+**📈 Sales & Financial Performance Dashboard**
+Built interactive Power BI dashboards to analyze sales, profit, units sold, products, segments, and trends.
 
-**Healthcare Data**  
-DHIS2 · Health Facility Data · Epidemiological Analysis
+**🗄️ SQL Data Analysis Projects**
+Used SQL for data extraction, filtering, joins, aggregation, and analysis of structured datasets.
 
----
+### 🎯 Currently Building
 
-##  Featured Projects
+* Data Analytics Portfolio
+* Power BI Dashboards
+* SQL Projects
+* Python Data Analysis Projects
+* Healthcare & Business Data Solutions
 
-###  Tasty Bites — Sales & Customer Analysis
-Analyzed restaurant sales and customer data to identify trends, customer patterns, product performance, and opportunities for improved decision-making.
+### 📫 Let's Connect
 
-**Tools:** Excel · SQL · Power BI
+* **LinkedIn:** [linkedin.com/in/noah-ngari-43b8192a1](https://www.linkedin.com/in/noah-ngari-43b8192a1)
+* **Email:** [ngarinoah1@gmail.com](mailto:ngarinoah1@gmail.com)
 
-###  FreshMart — SQL Data Analysis
-Performed SQL-based analysis of retail data using queries, filtering, aggregation, and data exploration to generate business insights.
-
-**Tools:** MySQL · SQL
-
-###  Python Data Analysis
-Built practical Python projects focused on data processing, analysis, and visualization.
-
-**Tools:** Python · Pandas · Matplotlib
-
-###  Healthcare Data Analysis
-Applied statistical and epidemiological methods to explore healthcare data, support reporting, and assess data quality.
-
-**Tools:** Excel · SPSS · DHIS2
-
----
-
-##  What I Do
-
-- Clean and prepare datasets for analysis
-- Explore data and identify meaningful patterns
-- Perform statistical and SQL-based analysis
-- Build interactive dashboards and visualizations
-- Communicate insights through clear reports and data stories
-- Apply analytical thinking to healthcare and business problems
-
----
-
-##  Areas of Interest
-
-**Data Analytics · Business Intelligence · Healthcare Analytics · Epidemiology · Statistical Analysis · Data Visualization**
-
----
-
-##  Let's Connect
-
-📍 Kenya  
-💼 [LinkedIn](www.linkedin.com/in/noah-ngari-43b8192a1)  
-📧 [Email](ngarinoah1@gmail.com)
 
 ---
 
